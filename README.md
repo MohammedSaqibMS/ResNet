@@ -64,8 +64,8 @@ pip install -r requirements.txt
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/residual-networks.git
-   cd residual-networks
+   git clone https://github.com/MohammedSaqibMS/ResNet.git
+   cd ResNet
    ```
 
 2. Run the Jupyter Notebook to experiment with blocks and architectures.  
